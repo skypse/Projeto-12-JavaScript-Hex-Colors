@@ -27,7 +27,3 @@ Um simples gerador de cores hexadecimais construído com HTML, CSS e JavaScript.
 
 ### Email:
 - gabrieldoamaral.alves12@gmail.com
-
-
-Uploading video.mp4…
-
