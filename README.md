@@ -1,5 +1,5 @@
 # 🎨 Hex Colors
-
+https://github.com/skypse/Projeto-12-JavaScript-Hex-Colors/assets/97822775/cb721405-3ee3-4e77-9764-757687ca525f
 
 Um simples gerador de cores hexadecimais construído com HTML, CSS e JavaScript. Este projeto exibe uma cor hexadecimal aleatória quando o botão é clicado, alterando também o plano de fundo da página para a cor gerada.
 
